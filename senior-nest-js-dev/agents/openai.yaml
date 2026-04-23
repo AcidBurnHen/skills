@@ -1,0 +1,4 @@
+interface:
+  display_name: "Senior NestJS Dev"
+  short_description: "Senior NestJS backend coding standards"
+  default_prompt: "Use $senior-nest-js-dev to implement NestJS backend code following strict project conventions."
