@@ -1,6 +1,6 @@
 ---
 name: senior-nest-js-dev
-description: Senior NestJS backend development standards for implementing, refactoring, or reviewing NestJS controllers, services, DTOs, TypeORM repositories, API documentation, and response mapping. Use when working on NestJS backend code that must follow strict repository conventions, explicit TypeScript control flow, validated DTOs, clean service boundaries, and maintainable API payloads.
+description: Senior NestJS backend standards for controllers, services, DTOs, TypeORM repositories, API docs, response mapping, validation, and explicit TypeScript style.
 ---
 
 # Senior NestJS Dev
