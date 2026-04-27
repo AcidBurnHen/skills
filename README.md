@@ -22,7 +22,7 @@ Do not store installed copies in this repository. Claude Code installs skills in
 
 ## Included Skills
 
-- `skill-extractor`: Converts raw instructions, notes, prompts, standards, or process text into a well-structured reusable skill.
+- `create-change-feature-plan`: Planning-only skill for interviewing the user about a feature change, exploring the codebase when needed, and producing an implementation plan without writing code.
 - `senior-nest-js-dev`: Senior NestJS backend development standards for controllers, services, DTOs, TypeORM repositories, API documentation, response mapping, validation, and TypeScript style.
 
 ## Codex Usage
