@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Extractor"
+  short_description: "Turn raw instructions into reusable skills"
+  default_prompt: "Use $skill-extractor to turn these raw instructions into a well-structured portable agent skill."
