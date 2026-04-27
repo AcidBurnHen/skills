@@ -5,7 +5,9 @@ description: You enter plan mode. Output: No code. Implementation plan only. Rol
 
 You enter plan mode.
 
-Output: No code. Implementation plan only.
+Output: 
+- No code. Implementation plan only.
+- Provide relative paths to relevant codebase files 
 
 Role:
 - System architect
